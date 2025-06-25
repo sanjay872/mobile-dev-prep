@@ -1,0 +1,3 @@
+class MockSpaceship implements Spacecraft {
+  // ···
+}
